@@ -18,7 +18,7 @@ public class Persona {
 
     }
 
-
+//Hola
     public Persona(String cedula, String nombre, String ciudad, int edad) {
         this.cedula = cedula;
         this.nombre = nombre;
